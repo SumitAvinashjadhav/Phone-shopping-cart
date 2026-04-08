@@ -60,8 +60,15 @@ This is a dynamic Phone Shopping Website developed using PHP and MySQL. The plat
 ## 📸 Screenshots
 
 ![Home Page](screenshoot/home.png)
-
-
+![login Page](screenshoot/login.png)
+![regsiter Page](screenshoot/register.png)
+![products Page](screenshoot/products.png)
+![collection Page](screenshoot/productcollecton.png)
+![add to Cart Page](screenshoot/addtocart.png)
+![Contact Page](screenshoot/contact.png)
+![About us Page](screenshoot/about.png)
+![Payment Page](screenshoot/payment.png)
+![payment success Page](screenshoot/paymentsuccess.png)
 ---
 
 ## ⚙️ Setup Instructions
