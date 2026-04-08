@@ -1,0 +1,99 @@
+/* 
+
+.graydiv{
+    width: 80%;
+    height: 80%;
+    background-color: rgb(209, 208, 208);
+    margin-left: 10%;
+    display: flex;
+    margin-top: 55px;
+}
+.pictureDiv{
+    width: 50%;
+    height: 100%;
+    background : url(image/gal3.jpg);
+    background-size: cover;
+    
+}
+.contact-inputDiv{
+    
+    height: 100%;
+    background-color: ;
+    margin-top: 33px;
+}
+#contacth1{
+    margin-left: 35%;
+    font-size: 29px;
+    font-family: sans-serif;
+
+}
+#emailinput2{
+    border-radius: 40px;
+    padding: 10px 21px;
+    border: none;
+    margin-top: 26px;
+    margin-left: -37px;
+}
+.emailnameDiv{
+    display: flex;
+}
+#emailstyle{
+    margin-left: 37px;
+    font-family: sans-serif;
+
+}
+#namestyle{
+    margin-left: 27px;
+    font-family: sans-serif;
+
+}
+.addressDiv{
+    margin-top: 10px;
+
+}
+#emailinput3{
+    padding: 10px 139px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 40px;
+    margin-top: 7px;
+}
+.messageDiv{
+    margin-top: 10px;
+
+}
+#meaasageinput3{
+    padding: 57px 139px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 40px;
+    margin-top: 7px;
+}
+#contact-button{
+    margin-top: 23px;
+    padding: 12px 198px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: orangered;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+#label2022{
+    margin-top: 30px;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 40px;
+}
+.last-col-footer{
+    margin-left: 30%;
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color: gray;
+} */

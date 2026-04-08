@@ -1,0 +1,63 @@
+#al_main_container{
+    height:550px;
+    width:100%;
+    
+    padding-top: 80px;
+}
+
+#al_container2{
+    width: 640px;
+    margin-left:-2px;
+    border: solid;
+    height: 370px;
+    border-width: 1px;
+    margin-left:370px;
+    backdrop-filter: blur(11px);
+    border-radius: 10px;
+}
+#al_cross_img{
+    margin-left:620px;
+}
+#al_main_label{
+    margin-left: 110px;
+    margin-top: -30px;
+}
+#al_un_label{
+    font-size: 22px;
+    font-family: math;
+}
+#al_un_text{
+    border-radius: 6px;
+    margin-left: 10px;
+    width:300px;
+    height: 35px;
+}
+#al_un_error{
+    color:red;
+}
+#al_password_error{
+    color:red;
+}
+#al_password_label{
+    font-size: 22px;
+    font-family: math;
+}
+#al_password_text{
+    border-radius: 6px;
+    margin-left: 10px;
+    width:300px;
+    height: 35px;
+}
+#al_button{
+    height: 40px;
+    width: 500px;
+    background-color: AF47D2;
+    margin-left: 5px;
+    color:white;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#al_container3{
+    margin-left: 90px;
+    margin-top:25px;
+}

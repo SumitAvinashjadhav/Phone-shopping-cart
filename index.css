@@ -1,0 +1,271 @@
+html,body{
+    height: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+}
+.blackfirstDiv{
+    height: 4%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding: 8px;
+    font-family: sans-serif;
+}
+.first-heading{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 34%;
+    background-color: black;
+    padding: 20px;
+    width: 100%;
+}
+.second-container{
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+.image-div{
+    width: 9%;
+    padding: 22px;
+    background-color: ;
+    margin-left: 47px;
+    
+    
+}
+nav{
+    margin-left: 43px;
+    margin-top: 30px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    width: 111%;
+    font-weight: 700;
+    font-size: 20px;
+}
+li{
+    margin-left: 50px;
+    font-size: 16px;
+   font-family: sans-serif;
+   
+
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li :hover{
+    color: red;
+}
+.login-div{
+    width: 10%;
+    padding: 20px;
+    background-color: ;
+    
+    margin-left: -46px;
+}
+.login-img{
+    width: 25px;
+}
+.side-bar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+}
+.userimage{
+    width: 8%;
+    margin-left: 253px;
+    margin-top: 24px;
+}
+.side-bar a{
+    width: 100%;
+}
+.side-bar li{
+    width: 100%;
+}
+.display-menu{
+    display: none;
+}
+.hidebar{
+    display: none;
+}
+
+
+#img-main{
+    width: 100%;
+    height: 100%;
+    margin-top: -15px;
+}
+.heading-container{
+    position: absolute;
+    margin-top: -448px;
+    margin-left: 53%;
+}
+.firstheading{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: -3%;
+    letter-spacing: 9px;
+}
+h1{
+    font-weight: 900;
+}
+.secondheading{
+    color: white;
+    font-family: sans-serif;
+    font-size: 42px;
+    margin-left: -152px;
+    
+
+}
+.thirdheading{
+    margin-top: 7%;
+    margin-left: 25%;
+}
+.button1{
+    padding: 12px 27px;
+    border-radius: 16px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.gray-container{
+    width: 100%;
+    height: 25%;
+    background-color: rgb(208, 207, 207);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 120px;
+    justify-content: end;
+}
+.div-container{
+    width: 30%;
+    height: 53%;
+    margin-top: 21px;
+    background-color: ;
+    display: flex;
+    
+}
+#carimage{
+    width: 99px;
+    height: 72px;
+}
+.labelDiv{
+    margin-left: 14px;
+    margin-top: 18px;
+}
+#labelfree{
+    font-weight: 700;
+    font-family: sans-serif;
+}
+#labelorder{
+    font-family: sans-serif;
+}
+.footer-div{
+    width: 100%;
+    height: 70%;
+    background-color: black;
+    margin-top: 121px;
+}
+.col-row-first{
+    display: flex;
+}
+.first-footerdiv{
+    color: white;
+    margin-top: 103px;
+    margin-left: 45px;
+    font-family: sans-serif;
+}
+.second-footerdiv{
+    color: white;
+    margin-top: 103px;
+    margin-left: 95px;
+    font-family: sans-serif;
+}
+.third-footerdiv{
+    color: white;
+    margin-top: 103px;
+    margin-left: 95px;
+    font-family: sans-serif;
+}
+.fourth-fotterdiv{
+    color: white;
+    margin-top: 142px;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-left: 552px;
+}
+#emailinput{
+    padding: 13px 68px;
+    margin-left: -221px;
+    border-radius: 25px;
+    border: none;
+    margin-top: 9px;
+    font-size: 16px;
+}
+#Subscribe-button{
+    padding: 13px 52px;
+    margin-left: 4px;
+    border-radius: 25px;
+    border: none;
+    margin-top: 9px;
+    font-size: 16px;
+    background-color: aquamarine;
+    font-weight: 600;
+}
+.instaetcDiv{
+    width: 81%;
+    height: 20%;
+    background-color: ;
+    margin-top: 26px;
+    margin-left: 53px;
+}
+#labels{
+    color: gray;
+}
+.col-secondrow-footer{
+    width: 100%;
+    height: 20%;
+    background-color: ;
+    display: flex;
+}
+#label2022{
+    margin-top: 30px;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 40px;
+}
+.last-col-footer{
+    margin-left: 30%;
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color: gray;
+}
