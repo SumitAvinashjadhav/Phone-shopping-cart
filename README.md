@@ -83,7 +83,7 @@ This is a dynamic Phone Shopping Website developed using PHP and MySQL. The plat
 4. Import the database file into phpMyAdmin
 
 5. Run the project in browser
-   http://localhost/project-folder
+   https://github.com/SumitAvinashjadhav/Phone-shopping-cart
 
 ---
 
